@@ -1,17 +1,38 @@
-# whats_ui
+📱 WhatsApp Chat UI (Flutter)
 
-A new Flutter project.
+A Flutter project that showcases two separate chat interface designs inspired by popular messaging apps:
 
-## Getting Started
+WhatsApp-style chat list
 
-This project is a starting point for a Flutter application.
+Messenger-style conversation screen
 
-A few resources to get you started if this is your first Flutter project:
+The main goal of this project is to practice UI/UX design, widget structuring, and building reusable components for real-world chat applications.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🚀 Features
+WhatsApp Chat UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Chat list with avatars, names, and last message preview
+
+Reusable chat item widget
+
+Clean and structured layout
+
+🛠️ Tech Stack
+
+Flutter (cross-platform development)
+
+Dart (programming language)
+
+Material Design (for UI components)
+
+🎯 Learning Outcomes
+
+Practiced UI/UX design in Flutter
+
+Implemented responsive layouts
+
+Improved widget reusability and structuring
+
+Gained experience in simulating real-world chat interfaces
+
 
