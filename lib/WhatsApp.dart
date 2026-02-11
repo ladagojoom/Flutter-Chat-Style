@@ -155,7 +155,7 @@ class WhatsApp extends StatelessWidget {
     "hello mr yousef",
     "how are you ali",
     "i'm busy mohamed",
-    "call me ahmed",
+    "call me bluedragon",
   ];
   List times = [
     "10:20am",
