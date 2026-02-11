@@ -1,3 +1,4 @@
+//This is whats app StatelessWidget for chat UI.
 import 'package:flutter/material.dart';
 
 import 'images.dart';
